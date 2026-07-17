@@ -4,8 +4,6 @@ This repository contains my Spring Boot learning journey. I am using this reposi
 
 
 
-
-
 ## Topics Covered
 
 - Spring Boot Basics
